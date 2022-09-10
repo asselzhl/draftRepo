@@ -12,12 +12,14 @@ I understand that learning Web development is a lot of work, so I will achieve t
 1. Responsibility;
 2. Discipline;
 3. Focus.
+
 ## Skills 
 * HTML5
 * CSS3
 * JavaScript Basics
 * Git, GitHub
 * VS Code
+
 ## Code Example 
 **Task:**
 
@@ -38,14 +40,17 @@ const check = (a, x) => {
   return false;
 }
 ```
+
 ## Experience 
 No experience in Web Development
+
 ## Education
 2016-2020: Foreign Philogy, KazNU named after al-Farabi
 
 **Courses:**
 * JavaScript Manual on learnjavascript.ru (in progress)
 * HTML Academy (in progress)
+
 ## Languages
 * Kazakh - native
 * Russian - advanced
