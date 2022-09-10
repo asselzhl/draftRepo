@@ -20,7 +20,9 @@ I understand that learning Web development is a lot of work, so I will achieve t
 * Git, GitHub
 * VS Code
 
+
 ## Code Example 
+
 **Task:**
 
 You will be given an array a and a value x. All you need to do is check whether the provided array contains the value.
@@ -52,6 +54,7 @@ No experience in Web Development
 * HTML Academy (in progress)
 
 ## Languages
+
 * Kazakh - native
 * Russian - advanced
 * English - advanced
