@@ -1,6 +1,7 @@
 # Assel Zholaushybay
 ## Contact information
 **E-mail:** asselzhly@gmail.com
+***
 **Phone number:** +77776827272
 **Location:** Almaty, Kazakhstan
 ## About me
